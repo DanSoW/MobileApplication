@@ -10,4 +10,5 @@
     <color name="mainBgColor">#F6F6F6</color>
     <color name="asideBgColor">#EAEAEA</color>
     <color name="name_of_app">#EC6060</color>
+    <color name="course_item_bg">#424345</color>
 </resources>

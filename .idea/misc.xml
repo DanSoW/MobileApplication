@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/AndroidProjects/MobileApplication/app/src/main/res/drawable/ic_category.xml" value="0.23703703703703705" />
+        <entry key="..\:/Projects/AndroidProjects/MobileApplication/app/src/main/res/drawable/ic_course_java.xml" value="0.23703703703703705" />
+        <entry key="..\:/Projects/AndroidProjects/MobileApplication/app/src/main/res/drawable/ic_filter.xml" value="0.23703703703703705" />
         <entry key="..\:/Projects/AndroidProjects/MobileApplication/app/src/main/res/drawable/ic_hot_deal.xml" value="0.23703703703703705" />
-        <entry key="..\:/Projects/AndroidProjects/MobileApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Projects/AndroidProjects/MobileApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Projects/AndroidProjects/MobileApplication/app/src/main/res/layout/category_item.xml" value="0.4" />
+        <entry key="..\:/Projects/AndroidProjects/MobileApplication/app/src/main/res/layout/course_item.xml" value="0.536" />
       </map>
     </option>
   </component>
